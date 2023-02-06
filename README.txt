@@ -1,5 +1,5 @@
 # HTML-Assignment_1 - HTML code is in file index.html
-You can visit the output on this link - https://1810nikita.github.io/HTML-Assignment_1/
+You can visit the output on this link -https://1810nikita.github.io/HTML-Assignment_1/
 In this assignment we have to create a UI using html like given in question.
 
 first I have used all heading tags
