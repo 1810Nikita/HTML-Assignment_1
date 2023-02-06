@@ -1,4 +1,4 @@
-# HTML-Assignment_1
+# HTML-Assignment_1 - HTML code is in file index.html
 In this assignment we have to create a UI using html like given in question.
 
 first I have used all heading tags
